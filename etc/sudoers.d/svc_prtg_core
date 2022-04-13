@@ -1,0 +1,1 @@
+svc_prtg_core ALL=(ALL) NOPASSWD: /var/prtg/scripts/*
